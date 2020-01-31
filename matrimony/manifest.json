@@ -1,0 +1,7 @@
+{
+  "name": "matrimony-app",
+  "short_name": "matrimony-app",
+  "description": "bhgwan ke bnae rishtey yha milae jate hai",
+  "start_url": "/",
+  "display": "standalone"
+}

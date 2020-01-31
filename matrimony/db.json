@@ -1,0 +1,206 @@
+{
+  "users": [
+    {
+      "userName": "Shubh",
+      "gender": "male",
+      "email": "guptas877@gmail.com",
+      "contact": "7503423537",
+      "password": "12",
+      "religion": "Hindu",
+      "age": "23",
+      "height": "165",
+      "image": "6",
+      "qualification": "Graduate",
+      "profession": "Developer",
+      "language": "Hindi",
+      "city": "Bulandshahr",
+      "state": "UP",
+      "id": 1
+    },
+    {
+      "userName": "Kriya",
+      "gender": "female",
+      "email": "meraemail@gmail.com",
+      "contact": "9878787",
+      "password": "12",
+      "religion": "Hindu",
+      "age": "20",
+      "height": "160",
+      "image": "0",
+      "qualification": "Post Graduate",
+      "profession": "Teacher",
+      "language": "English",
+      "city": "Delhi",
+      "state": "Delhi",
+      "id": 2
+    }
+  ],
+  "rishtey": [
+    {
+      "name": "Jack",
+      "gender": "male",
+      "age": "21",
+      "image": "6",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi"
+    },
+    {
+      "name": "Maddy",
+      "gender": "male",
+      "age": "21",
+      "image": "7",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi"
+    },
+    {
+      "name": "Shubh",
+      "gender": "male",
+      "age": "21",
+      "image": "8",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi"
+    },
+    {
+      "name": "Ricky",
+      "gender": "male",
+      "age": "21",
+      "image": "9",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi"
+    },
+    {
+      "name": "Simran",
+      "gender": "female",
+      "age": "21",
+      "image": "2",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi"
+    },
+    {
+      "name": "Nisha",
+      "gender": "female",
+      "age": "21",
+      "image": "3",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi"
+    },
+    {
+      "name": "Supriya",
+      "gender": "female",
+      "age": "21",
+      "image": "1",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi"
+    },
+    {
+      "name": "Kriya",
+      "gender": "female",
+      "age": "21",
+      "image": "0",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi"
+    }
+  ],
+  "wishlist": [
+    {
+      "name": "Nisha",
+      "gender": "female",
+      "age": "21",
+      "image": "3",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi",
+      "likedBy": {
+        "userName": "Shubh",
+        "gender": "male",
+        "age": "23",
+        "image": "6",
+        "religion": "Hindu",
+        "height": "165",
+        "profession": "Developer",
+        "language": "Hindi"
+      },
+      "id": 2
+    },
+    {
+      "name": "Supriya",
+      "gender": "female",
+      "age": "21",
+      "image": "1",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi",
+      "likedBy": {
+        "userName": "Shubh",
+        "gender": "male",
+        "age": "23",
+        "image": "6",
+        "religion": "Hindu",
+        "height": "165",
+        "profession": "Developer",
+        "language": "Hindi"
+      },
+      "id": 3
+    },
+    {
+      "name": "Kriya",
+      "gender": "female",
+      "age": "21",
+      "image": "0",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi",
+      "likedBy": {
+        "userName": "Shubh",
+        "gender": "male",
+        "age": "23",
+        "image": "6",
+        "religion": "Hindu",
+        "height": "165",
+        "profession": "Developer",
+        "language": "Hindi"
+      },
+      "id": 4
+    },
+    {
+      "name": "Shubh",
+      "gender": "male",
+      "age": "21",
+      "image": "8",
+      "religion": "Hindu",
+      "height": "160",
+      "profession": "Developer",
+      "language": "Hindi",
+      "likedBy": {
+        "userName": "Kriya",
+        "gender": "female",
+        "age": "20",
+        "image": "0",
+        "religion": "Hindu",
+        "height": "160",
+        "profession": "Teacher",
+        "language": "English"
+      },
+      "id": 5
+    }
+  ]
+}
